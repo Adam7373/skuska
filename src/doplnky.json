@@ -1,0 +1,65 @@
+[
+{
+"id":1,
+ "nazov": "Protein Whey",
+ "typ": "Protein",
+ "cena": 30,
+ "obrazok": "protein1"
+},
+{
+"id":2,
+ "nazov": "Protein Hydro",
+ "typ": "Protein",
+ "cena": 35,
+ "obrazok": "protein2"
+},
+{
+"id":3,
+ "nazov": "Protein Isolate",
+ "typ": "Protein",
+ "cena": 40,
+ "obrazok": "protein3"
+},
+{
+"id":4,
+ "nazov": "Aminokyselina Normal",
+ "typ": "Aminokyselina",
+ "cena": 15,
+ "obrazok": "amino1"
+},
+{
+"id":5,
+ "nazov": "Aminokyselina BCAA 6400",
+ "typ": "Aminokyselina",
+ "cena": 20,
+ "obrazok": "amino2"
+},
+{
+"id":6,
+ "nazov": "Aminokyselina BCAA 5200",
+ "typ": "Aminokyselina",
+ "cena": 25,
+ "obrazok": "amino3"
+},
+{
+"id":7,
+ "nazov": "Kreatin powder",
+ "typ": "Kreatin",
+ "cena": 35,
+ "obrazok": "kreatin1"
+},
+{
+"id":8,
+ "nazov": "Kreatin liqiud ",
+ "typ": "Kreatin",
+ "cena": 40,
+ "obrazok": "kreatin2"
+},
+{
+"id":9,
+ "nazov": "Kreatin Max",
+ "typ": "Kreatin",
+ "cena": 50,
+ "obrazok": "kreatin3"
+}
+]
